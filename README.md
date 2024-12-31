@@ -6,7 +6,7 @@ This project applies machine learning techniques to predict heart attack risk us
 
 Dataset
 
-The dataset includes features like age, sex, cholesterol levels, and more, sourced from [describe data source].
+The dataset includes features like age, sex, cholesterol levels, and more, sourced from Kaggle.
 
 Methodology
 
@@ -16,7 +16,6 @@ Evaluation: Metrics such as accuracy, precision, recall, and ROC AUC were used t
 Key Findings
 
 Identified significant predictors of heart attack risk.
-Achieved high accuracy and ROC AUC scores with [mention best-performing model].
 Replication Instructions
 
 To replicate the project locally:
